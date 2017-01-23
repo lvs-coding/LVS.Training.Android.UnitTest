@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Unit test</string>
+
+    <string name="add">ADD</string>
+    <string name="sub">SUB</string>
+    <string name="div">DIV</string>
+    <string name="mul">MUL</string>
+
+    <string name="op1">operand 1</string>
+    <string name="op2">operand 2</string>
+</resources>
