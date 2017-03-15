@@ -5,6 +5,9 @@ import org.junit.Test;
 
 import static junit.framework.Assert.assertEquals;
 
+/*
+Unit test using JUnit
+ */
 public class CalculatorTest {
 
     private Calculator mCalculator;
